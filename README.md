@@ -1,2 +1,2 @@
 # EmailValidator
-This Email Validator module will help to Validate Your Email List Quickly and Easily.
+Validator module help to Validate Email List Quickly & Easily.
